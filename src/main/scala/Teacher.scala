@@ -1,9 +1,11 @@
 
 //name、age是成员变量
-class Teacher(val name:String, val age:Int) {
+abstract  class Teacher(val name:String, val age:Int) {
   val major:String = ""
 
   def getMajor = major
+
+  def printInfo;
 }
 
 //子类中也定义了name的成员变量，需要override
@@ -14,6 +16,10 @@ class MathTeacher(override val name:String, age:Int, school:String) extends Teac
 
   def getSchool = school
   override def getMajor = major
+
+  def printInfo = {
+    println(name + " " + age + " "  + school)
+  }
 }
 
 object MathTeacher {
@@ -23,5 +29,7 @@ object MathTeacher {
     //println(teacher.school)
     println(teacher.name)
     println(teacher.getSchool)
+
+    teacher.printInfo
   }
 }
