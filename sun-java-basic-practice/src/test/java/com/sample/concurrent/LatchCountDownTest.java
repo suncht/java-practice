@@ -3,7 +3,6 @@ package com.sample.concurrent;
 import org.junit.Test;
 
 public class LatchCountDownTest {
-
     @Test
     public void test1() {
         MyComputeTask t = new MyComputeTask();
