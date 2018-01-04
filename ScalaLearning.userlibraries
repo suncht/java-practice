@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Python 2.7.13 (D:\Program Files\Python\Python27\python.exe) interpreter library">
+    <archive path="D:/Program Files/Python/Python27/DLLs" />
+    <archive path="D:/Program Files/Python/Python27/Lib" />
+    <archive path="D:/Program Files/Python/Python27/Lib/lib-tk" />
+    <archive path="D:/Program Files/Python/Python27" />
+    <archive path="D:/Program Files/Python/Python27/Lib/site-packages" />
+    <archive path="C:/Users/changtan.sun/.IntelliJIdea14/config/plugins/python/helpers/python-skeletons" />
+    <archive path="C:/Users/changtan.sun/.IntelliJIdea14/system/python_stubs/-1230406296" />
+  </library>
+  <library name="scala-sdk-2.10.6">
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-actors-migration.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-actors.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-library.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-reflect.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-swing.jar" />
+  </library>
+  <library name="scala-sdk-2.10.6 (2)">
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-actors-migration.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-actors.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-library.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-reflect.jar" />
+    <archive path="D:/Program Files/scala/scala-2.10.6/lib/scala-swing.jar" />
+  </library>
+</eclipse-userlibraries>
+
